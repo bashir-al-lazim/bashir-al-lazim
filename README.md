@@ -1,4 +1,4 @@
-##👨‍💻 **Junior MERN Stack Developer | CS Undergraduate**  
+## 👨‍💻 **Junior MERN Stack Developer | CS Undergraduate**  
 
 I am a passionate developer with a foundation in programming since 2018, starting with C and later transitioning into WordPress development in 2021. These experiences shaped my understanding of design and user-centric solutions. Today, I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), building scalable, efficient, and visually appealing web applications with role-based accessibility and seamless user experiences.  
 
