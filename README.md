@@ -4,7 +4,7 @@ I am a passionate developer with a foundation in programming since 2018, startin
 
 Actively looking for Junior MERN Stack Developer postions.
 
----
+
 
 ## 🔍 **Core Strengths**  
 ⚡ **Quick Learner & Adapter:** Thrive in dynamic environments and embrace challenges head-on.  
@@ -12,20 +12,20 @@ Actively looking for Junior MERN Stack Developer postions.
 🧠 **Critical Thinking & Problem Solving:** Adept at analyzing complex problems and delivering robust solutions.  
 🎯 **Attention to Detail & Persistence:** Ensure the highest quality in every project, while maintaining a positive mindset.  
 
----
+
 
 ## 💡 **What Drives Me?**  
 My passion lies in back-end development, where I can optimize systems, manage data, and drive technological innovation. I’m especially enthusiastic about integrating advanced technologies like AI and ML into meaningful, impactful projects.  
 
 Motivated by curiosity and a desire to make a difference, I’m committed to continuous learning and professional growth. Since 2018, my journey in programming has been guided by a dedication to excellence, a deep love for problem-solving, and a vision of achieving both personal and professional success. Alhamdulillah!  
 
----
+
 
 ## 💬 **Let’s Collaborate!**  
 - **Discussion Topics:** Full-Stack Development, MERN Stack, AI/ML, Problem Solving, Tech Trends.  
 - **Collaboration Interests:** Building impactful projects, solving real-world problems, and creating community-oriented applications.  
 
----
+
 
 ## 🌐 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lazim.lazim.393) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-bashir-al-lazim) 
