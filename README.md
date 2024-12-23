@@ -1,6 +1,6 @@
 ## 👨‍💻 **Junior MERN Stack Developer | CS Undergraduate**  
 
-I am a passionate developer with a foundation in programming since 2018, starting with C and later transitioning into WordPress development in 2021. These experiences shaped my understanding of design and user-centric solutions. Today, I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), building scalable, efficient, and visually appealing web applications with role-based accessibility and seamless user experiences.  
+I am a passionate developer with a foundation in programming since 2018, starting with C and later transitioning into WordPress development in 2021. These experiences shaped my understanding of design and user-centric solutions. Today, I specialize in the MERN stack (MongoDB, Express.js, React.js), building scalable, efficient, and visually appealing web applications with role-based accessibility and seamless user experiences.  
 
 ### Actively looking for Junior MERN Stack Developer positions.
 <br>
@@ -15,10 +15,9 @@ I am a passionate developer with a foundation in programming since 2018, startin
 <br>
 
 ## 💡 **What Drives Me?**  
-My passion lies in back-end development, where I can optimize systems, manage data, and drive technological innovation. I’m especially enthusiastic about integrating advanced technologies like AI and ML into meaningful, impactful projects. 
+While I excel in full-stack development, my true passion lies in back-end engineering. I’m interested to explore the integration of advanced technologies like AI and ML into meaningful projects.
 
-
-Motivated by curiosity and a desire to make a difference, I’m committed to continuous learning and professional growth. Since 2018, my journey in programming has been guided by a dedication to excellence, a deep love for problem-solving, and a vision of achieving both personal and professional success. Alhamdulillah!  
+I’m motivated by curiosity, continuous learning, and solving complex problems. My journey into programming began in 2018, and since then, I’ve been actively honing my skills to achieve a successful career and a fulfilling life. 
 
 <br>
 
