@@ -1,4 +1,4 @@
-<img href="https://i.ibb.co.com/FKNQVCV/linkedin-cover.png" width='300px'/> 
+<img src="https://i.ibb.co/FKNQVCV/linkedin-cover.png" width="100%" />
 
 ## 👨‍💻 **Junior MERN Stack Developer | CS Undergraduate**  
 
