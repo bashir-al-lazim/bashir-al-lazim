@@ -29,6 +29,7 @@ Motivated by curiosity and a desire to make a difference, I’m committed to con
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-bashir-al-lazim) 
+
 Email: md.bashirallazim@gmail.com  
 WhatsApp: +8801787223311  
 
