@@ -7,10 +7,10 @@ I am a passionate developer with a foundation in programming since 2018, startin
 
 
 ## 🔍 **Core Strengths**  
-⚡ Quick Learner & Adapter
-🤝 Collaboration & Feedback-Driven
-🧠 Critical Thinking & Problem Solving
-🎯 Attention to Detail & Persistence
+- ⚡ Quick Learner & Adapter
+- 🤝 Collaboration & Feedback-Driven
+- 🧠 Critical Thinking & Problem Solving
+- 🎯 Attention to Detail & Persistence
 
 
 
