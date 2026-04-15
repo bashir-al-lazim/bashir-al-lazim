@@ -1,32 +1,30 @@
-<img src="https://i.ibb.co.com/SsYr8ng/linkedin-cover-real.jpg" width="100%" />
+## Computer Science Student | Full-Stack Developer | AI/ML Learner
 
-## 👨‍💻 **Junior MERN Stack Developer | CS Undergraduate**  
+My journey in tech started with C back in school, when I first became interested in how logic can be turned into working systems. During the pandemic, I kept learning on my own through WordPress and Python, which made me more curious about how software is built, how products take shape, and how technology creates real value.
 
-I am a passionate developer with a foundation in programming since 2018, starting with C and later transitioning into WordPress development in 2021. These experiences shaped my understanding of design and user-centric solutions. Today, I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), building scalable, efficient, and visually appealing web applications with role-based accessibility and seamless user experiences.  
+Later, that curiosity grew into hands-on full-stack development through MERN training and project building. Working on web applications taught me how to take ideas from scratch to usable products through backend logic, APIs, authentication, databases, and user-focused workflows. Those experiences also made me more attached to the broader Computer Science domain, not just as a set of tools, but as a field where systems, intelligence, design, and problem solving come together.
 
-### Actively looking for Junior MERN Stack Developer positions.
-<br>
+Right now, my strongest language is Python, followed by JavaScript. I am currently expanding from software development into AI/ML, with growing interest in intelligent systems, NLP/LLMs, numerical data analysis, time series analysis, financial machine learning, and reliable AI systems.
 
+## Current Focus
 
-## 🔍 **Core Strengths**  
-- ⚡ Quick Learner & Adapter
-- 🤝 Collaboration & Feedback-Driven
-- 🧠 Critical Thinking & Problem Solving
-- 🎯 Attention to Detail & Persistence
+- Full-stack product development
+- Machine Learning
+- NLP / LLMs
+- Numerical Data Analysis
+- Time Series Analysis
+- Financial Machine Learning
+- Reliable AI Systems
 
-<br>
+## What I’m Working Toward
 
-## 💡 **What Drives Me?**  
-While I excel in full-stack development, my true passion lies in back-end engineering. I’m interested to explore the integration of advanced technologies like AI and ML into meaningful projects. Aspiring to grow into a Full Stack Architect role to deliver impactful, cutting-edge solutions.
+I’m building a strong foundation in Computer Science, software engineering, and AI/ML so I can create intelligent products and data-driven financial systems with real value. Over the next 5 years, I want to grow into an engineer who is strong in Python, machine learning, systems thinking, and product execution. What drives me most is building from scratch, learning deeply, and turning ideas into useful systems.
 
-I’m motivated by curiosity, continuous learning, and solving complex problems. My journey into programming began in 2018, and since then, I’ve been actively honing my skills to achieve a successful career and a fulfilling life. 
+## Open To
 
-<br>
-
-## 💬 **Let’s Collaborate!**  
-- **Discussion Topics:** Full-Stack Development, MERN Stack, AI/ML, Problem Solving, Tech Trends.  
-- **Collaboration Interests:** Building impactful projects, solving real-world problems, and creating community-oriented applications.  
-
+- Collaboration on meaningful software or AI-related projects
+- Learning opportunities and early-career technical roles
+- Conversations around Python, full-stack development, AI/ML, and product building
 <br>
 
 ## 🌐 Contact Me!
