@@ -4,16 +4,11 @@ My journey in tech started with C back in school, when I first became interested
 
 Later, that curiosity grew into hands-on full-stack development through MERN training and project building. Working on web applications taught me how to take ideas from scratch to usable products through backend logic, APIs, authentication, databases, and user-focused workflows. Those experiences also made me more attached to the broader Computer Science domain, not just as a set of tools, but as a field where systems, intelligence, design, and problem solving come together.
 
-Right now, my strongest language is Python, followed by JavaScript. I am currently expanding from software development into AI/ML, with growing interest in intelligent systems, NLP/LLMs, numerical data analysis, time series analysis, financial machine learning, and reliable AI systems.
+Right now, my strongest language is Python, followed by JavaScript. I am currently expanding from software development into AI/ML, with growing interest in intelligent and reliable AI systems.
 
 ## Current Focus
 
-- Full-stack product development
 - Machine Learning
-- NLP / LLMs
-- Numerical Data Analysis
-- Time Series Analysis
-- Financial Machine Learning
 - Reliable AI Systems
 
 ## What I’m Working Toward
